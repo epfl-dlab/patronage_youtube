@@ -10,7 +10,7 @@ This project explores the relationship between content creation and patronage. W
   - Manoel Horta Ribeiro, dlab, EPFL, Switzerland
   - Kristina Gligorić, dlab, EPFL, Switzerland
 - **Hosting lab**: 
-  - [dlab](https://dlab.epfl.ch/), EPFL, Switzerland [<img src="https://dlab.epfl.ch/assets/img/dlab.svg" alt= “dlab_logo” width="20">](https://dlab.epfl.ch/)
+  - [Data Science Lab](https://dlab.epfl.ch/), EPFL, Switzerland [<img src="https://dlab.epfl.ch/assets/img/dlab.svg" alt= “dlab_logo” width="20">](https://dlab.epfl.ch/)
 
 
 
