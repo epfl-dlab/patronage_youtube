@@ -5,17 +5,17 @@ This project explores the relationship between content creation and patronage. W
 
 ## Credentials
 - **Author**
-  - [Francis Murray](https://www.linkedin.com/in/franciswmurray/), EPFL, Switzerland
+  - [Francis Murray](https://github.com/francis-murray)
 - **Supervisors**
-  - Manoel Horta Ribeiro, dlab, EPFL, Switzerland
-  - Kristina Gligorić, dlab, EPFL, Switzerland
+  - [Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io/)
+  - [Kristina Gligorić](https://kristinagligoric.github.io/)
 - **Hosting lab**: 
-  - [Data Science Lab](https://dlab.epfl.ch/), EPFL, Switzerland [<img src="https://dlab.epfl.ch/assets/img/dlab.svg" alt= “dlab_logo” width="20">](https://dlab.epfl.ch/)
+  - [Data Science Lab](https://dlab.epfl.ch/), [EPFL](https://www.epfl.ch/en/), Switzerland [<img src="https://dlab.epfl.ch/assets/img/dlab.svg" alt= “dlab_logo” width="20">](https://dlab.epfl.ch/)
 
 
 
 ## Data
-#### YouNiverse dataset
+### YouNiverse dataset
 [YouNiverse](https://github.com/epfl-dlab/YouNiverse) is a large collection of channel and video metadata from English-language YouTube. YouNiverse comprises metadata for over 136k channels and 72.9M videos published between May 2005 and October 2019, as well as channel-level time series data of weekly subscriber and view counts.
 
 The YouNiverse dataset contains five files:
@@ -26,7 +26,7 @@ The YouNiverse dataset contains five files:
 - `youtube_comments.tsv.gz`: User-comment matrices.
 - `youtube_comments.ndjson.zst`: Raw comments.
 
-#### Graphtreon dataset
+### Graphtreon dataset
 
 The Graphtreon dataset was crawled by Manoel Ribeiro, and contains three files:
 
